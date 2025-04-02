@@ -1,0 +1,29 @@
+当前用户:
+fried_eggricelover
+当前系统时间:
+Wed Apr  2 13:57:55 CST 2025
+CPU负载情况:
+ 13:57:55 up 13 min,  1 user,  load average: 0.00, 0.03, 0.00
+磁盘使用情况:
+Filesystem      Size  Used Avail Use% Mounted on
+none            3.9G     0  3.9G   0% /usr/lib/modules/5.15.167.4-microsoft-standard-WSL2
+none            3.9G  4.0K  3.9G   1% /mnt/wsl
+drivers         101G   99G  1.8G  99% /usr/lib/wsl/drivers
+/dev/sdc       1007G  1.5G  955G   1% /
+none            3.9G   76K  3.9G   1% /mnt/wslg
+none            3.9G     0  3.9G   0% /usr/lib/wsl/lib
+rootfs          3.9G  2.4M  3.9G   1% /init
+none            3.9G  492K  3.9G   1% /run
+none            3.9G     0  3.9G   0% /run/lock
+none            3.9G     0  3.9G   0% /run/shm
+tmpfs           4.0M     0  4.0M   0% /sys/fs/cgroup
+none            3.9G   76K  3.9G   1% /mnt/wslg/versions.txt
+none            3.9G   76K  3.9G   1% /mnt/wslg/doc
+C:\             101G   99G  1.8G  99% /mnt/c
+D:\             398G  160G  238G  41% /mnt/d
+E:\             427G  256G  172G  60% /mnt/e
+tmpfs           787M   16K  787M   1% /run/user/1000
+当前内存使用情况:
+               total        used        free      shared  buff/cache   available
+Mem:            7863         607        7209           3         277        7255
+Swap:           2048           0        2048
